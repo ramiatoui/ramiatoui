@@ -2,9 +2,9 @@
 
 ## 💼 Senior Django Backend Developer
 
-![Profile Banner](https://img.shields.io/badge/Django-Expert-brightgreen)
-![Profile Banner](https://img.shields.io/badge/Cloud-AWS-orange)
-![Profile Banner](https://img.shields.io/badge/ML-AI-blue)
+![Django Expert](https://img.shields.io/badge/Django-Expert-brightgreen)
+![Cloud AWS](https://img.shields.io/badge/Cloud-AWS-orange)
+![ML AI](https://img.shields.io/badge/ML-AI-blue)
 
 Full-Stack Developer with expertise in Django backend development, cloud architecture, and ML/AI integration. I specialize in deploying production-ready solutions across AWS, cPanel, and Scaleway environments. My passion lies in architecting RESTful APIs, implementing efficient data pipelines, and mentoring junior developers.
 
@@ -87,7 +87,6 @@ Spearheading Django backend development, leveraging cPanel, REST API, and Pandas
 ## 📫 Get in Touch
 
 - 📧 Email: [ramiatoui10@gmail.com](mailto:ramiatoui10@gmail.com)
-- 📱 Phone: +21693412067
 - 📍 Location: Tataouine, Tunisia
 - 🔗 LinkedIn: [Rami Atoui](https://tn.linkedin.com/in/rami-atoui)
 

@@ -5,6 +5,7 @@
 ![Django Expert](https://img.shields.io/badge/Django-Expert-brightgreen)
 ![Cloud AWS](https://img.shields.io/badge/Cloud-AWS-orange)
 ![ML AI](https://img.shields.io/badge/ML-AI-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ramiatoui&color=blueviolet)
 
 Full-Stack Developer with expertise in Django backend development, cloud architecture, and ML/AI integration. I specialize in deploying production-ready solutions across AWS, cPanel, and Scaleway environments. My passion lies in architecting RESTful APIs, implementing efficient data pipelines, and mentoring junior developers.
 
